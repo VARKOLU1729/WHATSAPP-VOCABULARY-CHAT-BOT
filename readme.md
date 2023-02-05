@@ -1,7 +1,7 @@
-# vocabbot
+# VOCABBOT
 WhatsApp Chatbot to improve your vocabulary
 
-functions
+functions used
 
 ```
 help - returns all the methods
